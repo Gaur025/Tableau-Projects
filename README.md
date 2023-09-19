@@ -33,7 +33,29 @@ For a deeper dive into the real estate market and to explore these features in d
 
 ![House Sales Dashboard](https://github.com/Gaur025/Excel-Projects-Dashboards/assets/53060111/803c6ad8-77aa-43fb-9bfa-e1433b46411a)
 
+# HR Analytics Dashboard
 
+The HR Analytics Dashboard offers a powerful tool for human resources professionals and decision-makers to gain valuable insights into workforce dynamics. Here's what this comprehensive dashboard has to offer:
+
+1.Key HR KPIs: At a glance, track essential HR Key Performance Indicators (KPIs) including total employee count, attrition count, attrition rate, the number of active employees, and average employee age.
+
+2.Department-Wise Attrition: Visualize department-wise attrition rates, helping you identify areas that require attention and improvement.
+
+3.Age Group Demographics: Understand the distribution of employees across different age groups, providing valuable insights into workforce demographics.
+
+4.Job Satisfaction Rating: Monitor job satisfaction ratings to gauge employee morale and engagement levels.
+
+5.Education Field Analysis: Dive deeper into attrition trends by education field, allowing for targeted retention strategies.
+
+6.Attrition Rate by Gender for Age Groups: Explore how attrition rates vary by gender within different age groups, offering insights into workforce dynamics at a granular level.
+
+7.Filter Options: Customize your analysis using filters, such as education level, to refine your insights.
+
+For a comprehensive exploration of HR analytics and to leverage these valuable tools, please visit the complete dashboard here.
+
+https://public.tableau.com/app/profile/gaurang.dwivedi/viz/HRAnalyticsDashboard_16944210188490/HRAnalyticsDashboard?publish=yes
+
+![HR Analytics Dashboard](https://github.com/Gaur025/Excel-Projects-Dashboards/assets/53060111/2d5abb94-b72c-491e-8895-def6e49083e5)
 
 
 
