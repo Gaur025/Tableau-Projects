@@ -11,9 +11,9 @@ The COVID Dashboard provides a comprehensive view of the global pandemic's impac
 
 4.Percent Population Infected: This interactive chart displays the percentage of the global population that has been infected, allowing viewers to track the pandemic's progression in relation to the entire world.
 
-For a detailed exploration of these metrics and a deeper understanding of the global COVID-19 situation, please visit the complete dashboard here: https://public.tableau.com/app/profile/gaurang.dwivedi/viz/TableauCovidDashboard_16941572970760/Dashboard1?publish=yes
+For a detailed exploration of these metrics and a deeper understanding of the global COVID-19 situation, please visit the complete dashboard [here](https://public.tableau.com/app/profile/gaurang.dwivedi/viz/TableauCovidDashboard_16941572970760/Dashboard1?publish=yes)
 
-[Covid-19 Dashboard](https://github.com/Gaur025/Excel-Projects-Dashboards/assets/53060111/d4fabdec-430e-4b6b-9157-9500f65e0358)
+![Covid-19 Dashboard](https://github.com/Gaur025/Excel-Projects-Dashboards/assets/53060111/d4fabdec-430e-4b6b-9157-9500f65e0358)
 
 # Kingcounty Washington House Sales Dashboard
 
